@@ -1,0 +1,1 @@
+÷öb<?php exit; ?>a:1:{s:7:"content";a:7:{s:2:"js";a:0:{}s:3:"css";a:0:{}s:5:"stamp";i:0;s:9:"cachesize";s:17:"0 bytes (0 files)";s:16:"total_cache_size";s:20:"63.00 MB (921 files)";s:9:"cacheTime";s:25:"August 11, 2022 @ 9:31 am";s:9:"cachePath";s:83:"/home/mmarjanovic/public_html/digitel/wp-content/cache/wpo-minify/1660210295/assets";}}

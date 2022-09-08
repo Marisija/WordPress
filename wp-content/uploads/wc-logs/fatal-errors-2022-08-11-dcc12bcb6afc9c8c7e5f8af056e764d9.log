@@ -1,0 +1,2 @@
+2022-08-11T18:59:09+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1196032 bytes) in /home/mmarjanovic/public_html/digitel/wp-includes/functions.php on line 4247
+

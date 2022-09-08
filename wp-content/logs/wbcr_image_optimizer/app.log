@@ -1,0 +1,25 @@
+
+10-08-2022 17:04:12 [mmarjanovic.wppsbootcamp.com][info] Parent plugin start installation!
+10-08-2022 17:04:12 [mmarjanovic.wppsbootcamp.com][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.6
+10-08-2022 17:04:12 [mmarjanovic.wppsbootcamp.com][info] Parent plugin installation complete!
+-------------------------------
+10-08-2022 17:04:26 [mmarjanovic.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/mmarjanovic/public_html/digitel/wp-content/uploads/wio_backup)
+-------------------------------
+10-08-2022 17:06:20 [mmarjanovic.wppsbootcamp.com][info] Parent plugin start deactivation!
+10-08-2022 17:06:20 [mmarjanovic.wppsbootcamp.com][info] Parent plugin deactivation complete!
+-------------------------------
+10-08-2022 17:12:24 [mmarjanovic.wppsbootcamp.com][info] Parent plugin start installation!
+10-08-2022 17:12:24 [mmarjanovic.wppsbootcamp.com][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.6
+10-08-2022 17:12:24 [mmarjanovic.wppsbootcamp.com][info] Parent plugin installation complete!
+-------------------------------
+10-08-2022 17:15:41 [mmarjanovic.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/mmarjanovic/public_html/digitel/wp-content/uploads/wio_backup)
+-------------------------------
+10-08-2022 17:16:12 [mmarjanovic.wppsbootcamp.com][info] Parent plugin start deactivation!
+10-08-2022 17:16:12 [mmarjanovic.wppsbootcamp.com][info] Parent plugin deactivation complete!
+-------------------------------
