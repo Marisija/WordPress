@@ -20,6 +20,6 @@ Roman content:
 - Shop
 
 
-## Usage
+## Design
 
 Roman website had online shop and integrated payment system.
