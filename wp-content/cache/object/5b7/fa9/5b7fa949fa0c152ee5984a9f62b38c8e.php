@@ -1,1 +1,1 @@
-\c<?php exit; ?>a:1:{s:7:"content";i:10;}
+@ÿc<?php exit; ?>a:1:{s:7:"content";i:10;}

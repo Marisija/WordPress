@@ -1,1 +1,0 @@
-Ovaj backup je napravljen putem SSH.

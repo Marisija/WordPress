@@ -1,0 +1,1 @@
+°c<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":7:{s:10:"HasAccount";b:0;s:11:"FreeCredits";i:500;s:15:"UsedFreeCredits";i:561;s:8:"CDNQuota";i:5368709000;s:7:"UsedCDN";i:4633366;s:6:"Status";i:-2;s:1:"0";s:15:"EXCEEDED NO CDN";}}
